@@ -1,0 +1,100 @@
+{"id": 0, "language": "python", "source": "stack_overflow", "prompt": "What does the &quot;yield&quot; keyword do in Python?"}
+{"id": 1, "language": "python", "source": "stack_overflow", "prompt": "What does if __name__ == &quot;__main__&quot;: do?"}
+{"id": 2, "language": "python", "source": "stack_overflow", "prompt": "Does Python have a ternary conditional operator?"}
+{"id": 3, "language": "python", "source": "stack_overflow", "prompt": "What are metaclasses in Python?"}
+{"id": 4, "language": "python", "source": "stack_overflow", "prompt": "How do I check whether a file exists without exceptions?"}
+{"id": 5, "language": "python", "source": "stack_overflow", "prompt": "How do I merge two dictionaries in a single expression in Python?"}
+{"id": 6, "language": "python", "source": "stack_overflow", "prompt": "How do I execute a program or call a system command?"}
+{"id": 7, "language": "python", "source": "stack_overflow", "prompt": "How do I create a directory, and any missing parent directories?"}
+{"id": 8, "language": "python", "source": "stack_overflow", "prompt": "How can I access the index value in a &#39;for&#39; loop?"}
+{"id": 9, "language": "python", "source": "stack_overflow", "prompt": "How do I make a flat list out of a list of lists?"}
+{"id": 10, "language": "python", "source": "stack_overflow", "prompt": "What is the difference between @staticmethod and @classmethod in Python?"}
+{"id": 11, "language": "python", "source": "stack_overflow", "prompt": "How slicing in Python works"}
+{"id": 12, "language": "python", "source": "stack_overflow", "prompt": "How can I find the index for a given item in a list?"}
+{"id": 13, "language": "python", "source": "stack_overflow", "prompt": "Iterating over dictionaries using &#39;for&#39; loops"}
+{"id": 14, "language": "python", "source": "stack_overflow", "prompt": "How can I iterate over rows in a Pandas DataFrame?"}
+{"id": 15, "language": "python", "source": "stack_overflow", "prompt": "How can I use a global variable in a function?"}
+{"id": 16, "language": "python", "source": "stack_overflow", "prompt": "How do I get the current time in Python?"}
+{"id": 17, "language": "python", "source": "stack_overflow", "prompt": "How can I catch multiple exceptions in one line? (in the &quot;except&quot; block)"}
+{"id": 18, "language": "python", "source": "stack_overflow", "prompt": "How do I copy a file?"}
+{"id": 19, "language": "python", "source": "stack_overflow", "prompt": "What is __init__.py for?"}
+{"id": 20, "language": "python", "source": "stack_overflow", "prompt": "Convert bytes to a string in Python 3"}
+{"id": 21, "language": "python", "source": "stack_overflow", "prompt": "What is the difference between __str__ and __repr__?"}
+{"id": 22, "language": "python", "source": "stack_overflow", "prompt": "How do I select rows from a DataFrame based on column values?"}
+{"id": 23, "language": "python", "source": "stack_overflow", "prompt": "How can I add new keys to a dictionary?"}
+{"id": 24, "language": "python", "source": "stack_overflow", "prompt": "Does Python have a string &#39;contains&#39; substring method?"}
+{"id": 25, "language": "python", "source": "stack_overflow", "prompt": "How can I delete a file or folder in Python?"}
+{"id": 26, "language": "python", "source": "stack_overflow", "prompt": "&quot;Least Astonishment&quot; and the Mutable Default Argument"}
+{"id": 27, "language": "python", "source": "stack_overflow", "prompt": "What does ** (double star/asterisk) and * (star/asterisk) do for parameters?"}
+{"id": 28, "language": "python", "source": "stack_overflow", "prompt": "How do I list all files of a directory?"}
+{"id": 29, "language": "python", "source": "stack_overflow", "prompt": "How can I access environment variables in Python?"}
+{"id": 30, "language": "python", "source": "stack_overflow", "prompt": "How do I sort a dictionary by value?"}
+{"id": 31, "language": "python", "source": "stack_overflow", "prompt": "How do I clone a list so that it doesn&#39;t change unexpectedly after assignment?"}
+{"id": 32, "language": "python", "source": "stack_overflow", "prompt": "How do I pass a variable by reference?"}
+{"id": 33, "language": "python", "source": "stack_overflow", "prompt": "Manually raising (throwing) an exception in Python"}
+{"id": 34, "language": "python", "source": "stack_overflow", "prompt": "How do I print colored text to the terminal?"}
+{"id": 35, "language": "python", "source": "stack_overflow", "prompt": "Understanding Python super() with __init__() methods"}
+{"id": 36, "language": "python", "source": "stack_overflow", "prompt": "How do I make a time delay?"}
+{"id": 37, "language": "python", "source": "stack_overflow", "prompt": "How do I change the size of figures drawn with Matplotlib?"}
+{"id": 38, "language": "python", "source": "stack_overflow", "prompt": "How do I concatenate two lists in Python?"}
+{"id": 39, "language": "python", "source": "stack_overflow", "prompt": "How do I check if a list is empty?"}
+{"id": 40, "language": "python", "source": "stack_overflow", "prompt": "How do I make function decorators and chain them together?"}
+{"id": 41, "language": "python", "source": "stack_overflow", "prompt": "How do I split a list into equally-sized chunks?"}
+{"id": 42, "language": "python", "source": "stack_overflow", "prompt": "Find the current directory and file&#39;s directory"}
+{"id": 43, "language": "python", "source": "stack_overflow", "prompt": "What is the difference between Python&#39;s list methods append and extend?"}
+{"id": 44, "language": "python", "source": "stack_overflow", "prompt": "Why is &quot;1000000000000000 in range(1000000000000001)&quot; so fast in Python 3?"}
+{"id": 45, "language": "python", "source": "stack_overflow", "prompt": "Renaming column names in Pandas"}
+{"id": 46, "language": "python", "source": "stack_overflow", "prompt": "How can I remove a key from a Python dictionary?"}
+{"id": 47, "language": "python", "source": "stack_overflow", "prompt": "Convert string &quot;Jun 1 2005 1:33PM&quot; into datetime"}
+{"id": 48, "language": "python", "source": "stack_overflow", "prompt": "How to upgrade all Python packages with pip"}
+{"id": 49, "language": "python", "source": "stack_overflow", "prompt": "How can I sort a list of dictionaries by a value of the dictionary in Python?"}
+{"id": 50, "language": "python", "source": "stack_overflow", "prompt": "How to leave/exit/deactivate a Python virtualenv"}
+{"id": 51, "language": "python", "source": "stack_overflow", "prompt": "How do I get the last element of a list?"}
+{"id": 52, "language": "python", "source": "stack_overflow", "prompt": "How do I parse a string to a float or int?"}
+{"id": 53, "language": "python", "source": "stack_overflow", "prompt": "How do I install pip on Windows?"}
+{"id": 54, "language": "python", "source": "stack_overflow", "prompt": "How do I get a substring of a string in Python?"}
+{"id": 55, "language": "python", "source": "stack_overflow", "prompt": "How do I escape curly-brace ({}) characters characters in a string while using .format?"}
+{"id": 56, "language": "python", "source": "stack_overflow", "prompt": "Check if a given key already exists in a dictionary"}
+{"id": 57, "language": "python", "source": "stack_overflow", "prompt": "Importing files from different folder"}
+{"id": 58, "language": "python", "source": "stack_overflow", "prompt": "Class (static) variables and methods"}
+{"id": 59, "language": "python", "source": "stack_overflow", "prompt": "How do I lowercase a string in Python?"}
+{"id": 60, "language": "python", "source": "stack_overflow", "prompt": "How can I check if an object has an attribute?"}
+{"id": 61, "language": "python", "source": "stack_overflow", "prompt": "How to print without a newline or space"}
+{"id": 62, "language": "python", "source": "stack_overflow", "prompt": "Calling a function of a module by using its name (a string)"}
+{"id": 63, "language": "python", "source": "stack_overflow", "prompt": "Limiting floats to two decimal points"}
+{"id": 64, "language": "python", "source": "stack_overflow", "prompt": "How can I randomly select (choose) an item from a list (get a random element)?"}
+{"id": 65, "language": "python", "source": "stack_overflow", "prompt": "How to remove an element from a list by index"}
+{"id": 66, "language": "python", "source": "stack_overflow", "prompt": "Delete a column from a Pandas DataFrame"}
+{"id": 67, "language": "python", "source": "stack_overflow", "prompt": "How do I get the number of elements in a list (length of a list) in Python?"}
+{"id": 68, "language": "python", "source": "stack_overflow", "prompt": "What is the difference between venv, pyvenv, pyenv, virtualenv, virtualenvwrapper, pipenv, etc?"}
+{"id": 69, "language": "python", "source": "stack_overflow", "prompt": "How do I pad a string with zeros?"}
+{"id": 70, "language": "python", "source": "stack_overflow", "prompt": "Delete an element from a dictionary"}
+{"id": 71, "language": "python", "source": "stack_overflow", "prompt": "How can I determine a Python variable&#39;s type?"}
+{"id": 72, "language": "python", "source": "stack_overflow", "prompt": "Determine the type of an object?"}
+{"id": 73, "language": "python", "source": "stack_overflow", "prompt": "How do I count the occurrences of a list item?"}
+{"id": 74, "language": "python", "source": "stack_overflow", "prompt": "How to check if the string is empty in Python?"}
+{"id": 75, "language": "python", "source": "stack_overflow", "prompt": "Why is reading lines from stdin much slower in C++ than Python?"}
+{"id": 76, "language": "python", "source": "stack_overflow", "prompt": "How do I measure elapsed time in Python?"}
+{"id": 77, "language": "python", "source": "stack_overflow", "prompt": "Why is it string.join(list) instead of list.join(string)?"}
+{"id": 78, "language": "python", "source": "stack_overflow", "prompt": "How do I append to a file?"}
+{"id": 79, "language": "python", "source": "stack_overflow", "prompt": "Is there a way to run Python on Android?"}
+{"id": 80, "language": "python", "source": "stack_overflow", "prompt": "How can I remove a trailing newline?"}
+{"id": 81, "language": "python", "source": "stack_overflow", "prompt": "Static methods in Python?"}
+{"id": 82, "language": "python", "source": "stack_overflow", "prompt": "Installing specific package version with pip"}
+{"id": 83, "language": "python", "source": "stack_overflow", "prompt": "How do I split the definition of a long string over multiple lines?"}
+{"id": 84, "language": "python", "source": "stack_overflow", "prompt": "How to prettyprint a JSON file?"}
+{"id": 85, "language": "python", "source": "stack_overflow", "prompt": "Getting the class name of an instance"}
+{"id": 86, "language": "python", "source": "stack_overflow", "prompt": "How to read a file line-by-line into a list?"}
+{"id": 87, "language": "python", "source": "stack_overflow", "prompt": "How do I get the row count of a Pandas DataFrame?"}
+{"id": 88, "language": "python", "source": "stack_overflow", "prompt": "How do I check if a string represents a number (float or int)?"}
+{"id": 89, "language": "python", "source": "stack_overflow", "prompt": "What&#39;s the canonical way to check for type in Python?"}
+{"id": 90, "language": "python", "source": "stack_overflow", "prompt": "Meaning of @classmethod and @staticmethod for beginner"}
+{"id": 91, "language": "python", "source": "stack_overflow", "prompt": "How can I install packages using pip according to the requirements.txt file from a local directory?"}
+{"id": 92, "language": "python", "source": "stack_overflow", "prompt": "How do I declare custom exceptions in modern Python?"}
+{"id": 93, "language": "python", "source": "stack_overflow", "prompt": "fatal error: Python.h: No such file or directory"}
+{"id": 94, "language": "python", "source": "stack_overflow", "prompt": "Generate random integers between 0 and 9"}
+{"id": 95, "language": "python", "source": "stack_overflow", "prompt": "What is the meaning of single and double underscore before an object name?"}
+{"id": 96, "language": "python", "source": "stack_overflow", "prompt": "Relative imports for the billionth time"}
+{"id": 97, "language": "python", "source": "stack_overflow", "prompt": "How do I write JSON data to a file?"}
+{"id": 98, "language": "python", "source": "stack_overflow", "prompt": "Extracting extension from filename"}
+{"id": 99, "language": "python", "source": "stack_overflow", "prompt": "Relative imports in Python 3"}
