@@ -5,7 +5,7 @@ import os
 import time
 from typing import Optional
 
-# Créer automatiquement le dossier data/master/
+# Create folder data/master/
 os.makedirs("data/master", exist_ok=True)
 
 def get_package_description(package_name: str) -> Optional[str]:
@@ -25,10 +25,10 @@ def get_package_description(package_name: str) -> Optional[str]:
 url = "https://hugovk.github.io/top-pypi-packages/top-pypi-packages-30-days.csv"
 df = pd.read_csv(url)
 
-# Extraction 
+# Extraction top 5000 fior the first try
 top5000 = df["project"].head(5000)
 
-output_file = "data/master/top5000-pypi.jsonl"
+output_file = "data/master/top5-pkg_desc_pypi.jsonl"
 
 with open(output_file, 'w', encoding='utf-8') as f:
     for i, package_name in enumerate(top5000):
