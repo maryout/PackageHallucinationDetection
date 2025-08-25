@@ -61,7 +61,7 @@ The system supports various LLM providers configured in `config.py`:
 - `gpt-4` (OpenAI)
 - `claude-3-haiku-20240307` (Anthropic)
 - `claude-sonnet-4` (Anthropic)
-- `deepseek-chat` (DeepSeek)
+- `deepseek-chat` (DeepSeek)  ### Used here to much the key_request logic implementation 
 
 **Open Source Models:**
 - `codellama-7b-Instruct-hf` (HuggingFace)
@@ -170,6 +170,4 @@ MODELS_CONFIG = {
 }
 ```
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
