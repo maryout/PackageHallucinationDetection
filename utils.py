@@ -3,7 +3,7 @@ import re
 import json
 from config import get_data_paths
 
-#Load prompts for a given language from multiple data sources.
+#Load prompts for a given language from multiple data sources
 def load_prompts(language):
     data_paths = get_data_paths(language)
     prompts = []
@@ -94,7 +94,7 @@ def compute_heuristic_stats(results, valid_packages_set):
 
 
 def save_heuristic_stats(stats, output_dir):
-    
+
     os.makedirs(output_dir, exist_ok=True)
     summary = {}
 

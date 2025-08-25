@@ -8,7 +8,7 @@ from config import MODELS_CONFIG, SYSTEM_MESSAGES, get_data_paths
 
 
 class PackageHallucinationDetector:
-    #Detect hallucinated packages using the paper 3 heuristics
+    #Code Generation and Detect hallucinated packages using the paper 3 heuristics
 
     def __init__(self, language, model_key, openai_api_key=None, claude_api_key=None,
                  hf_token=None, deepseek_api_key=None):
@@ -203,7 +203,7 @@ class PackageHallucinationDetector:
         return self.query_model_for_packages_heuristic2(code_snippet)
 
 
-    # analysis
+    # analysis part ( analyze code and calculat rates)
     def analyze_code_sample(self, code, original_prompt=None, model_name=None, is_commercial=None):
         h1 = self.extract_packages_heuristic1(code)
         h2 = self._parse_llm_response(self.query_model_for_packages_heuristic2(code))
