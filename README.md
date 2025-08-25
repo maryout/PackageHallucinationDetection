@@ -9,7 +9,6 @@ Evaluating whether LLMs suggest or use non-existent packages when generating Pyt
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Supported Models](#supported-models)
-- [Results Analysis](#results-analysis)
 - [Project Structure](#project-structure)
 
 
