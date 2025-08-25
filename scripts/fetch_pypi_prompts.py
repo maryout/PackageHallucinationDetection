@@ -5,8 +5,8 @@ import os
 import time
 from typing import Optional
 
-# Create folder data/master/
-os.makedirs("data/master", exist_ok=True)
+
+os.makedirs("../data/pythonN/master", exist_ok=True)
 
 def get_package_description(package_name: str) -> Optional[str]:
     """Fetch package description from PyPI API"""
@@ -21,27 +21,35 @@ def get_package_description(package_name: str) -> Optional[str]:
         print(f"Error fetching {package_name}: {e}")
         return None
 
-# From Ready to use repo
 url = "https://hugovk.github.io/top-pypi-packages/top-pypi-packages-30-days.csv"
 df = pd.read_csv(url)
 
-# Extraction top 5000 fior the first try
-top5000 = df["project"].head(5000)
+# for test to changer befor commit
+top5000 = df["project"].head(5)
 
-output_file = "data/master/top5-pkg_desc_pypi.jsonl"
+jsonl_file = "../data/master/top5-pkg_desc_pypi.jsonl"
+csv_file = "../data/master/top5-pkg_desc_pypi.csv"
 
-with open(output_file, 'w', encoding='utf-8') as f:
+records = []
+
+with open(jsonl_file, 'w', encoding='utf-8') as f:
     for i, package_name in enumerate(top5000):
-        print(f"Processing {i+1}/5000: {package_name}")
+        print(f"Processing {i+1}/{len(top5000)}: {package_name}")
         
-        # Save the description 
         description = get_package_description(package_name)
         
-        # Create JSONl file
         package_data = {
             "package_name": package_name,
             "description": description if description else ""
         }
         
         f.write(json.dumps(package_data, ensure_ascii=False) + '\n')
+        
+        records.append(package_name)
+        
         time.sleep(0.1)
+
+df_out = pd.DataFrame(records)
+df_out.to_csv(csv_file, index=False, encoding="utf-8", header=False)
+
+print(f"Done! Saved {len(records)} packages to:\n- {jsonl_file}\n- {csv_file}")

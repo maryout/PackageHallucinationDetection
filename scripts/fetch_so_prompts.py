@@ -1,9 +1,13 @@
 import requests, json, os
 
-os.makedirs("data/prompts", exist_ok=True)
+os.makedirs("../data/python/prompts", exist_ok=True)
 
 def fetch_so_questions(tag, pagesize=5):
-    url = f"https://api.stackexchange.com/2.3/questions?order=desc&sort=votes&tagged={tag}&site=stackoverflow&pagesize={pagesize}"
+    url = (
+        f"https://api.stackexchange.com/2.3/questions"
+        f"?order=desc&sort=votes&tagged={tag}&site=stackoverflow"
+        f"&pagesize={pagesize}&filter=withbody"
+    )
     r = requests.get(url)
     if r.status_code != 200:
         raise Exception(f"API request failed with status {r.status_code}")
@@ -12,15 +16,14 @@ def fetch_so_questions(tag, pagesize=5):
         raise Exception("No 'items' in API response")
     return data
 
-# Test1 for 1000 rows Python StackOverflow prompts -- faild only 100 are alowed
-data = fetch_so_questions("python", 100)
+# Test with smaller size (max 100 allowed per API call)
+data = fetch_so_questions("python", 50)
 
-with open("data/prompts/so-py-sample.jsonl", "w", encoding="utf-8") as f:
+with open("../data/prompts/SO_QST.jsonl", "w", encoding="utf-8") as f:
     for i, q in enumerate(data["items"]):
         json.dump({
             "id": i,
-            "language": "python",
-            "source": "stack_overflow",
-            "prompt": q.get("title", "")
-        }, f)
+            "Title": q.get("title", ""),
+            "Body": q.get("body", "")
+        }, f, ensure_ascii=False)
         f.write("\n")

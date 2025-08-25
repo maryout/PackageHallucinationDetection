@@ -1,0 +1,500 @@
+{"package_name": "cloudflare", "description": "The official Python library for the cloudflare API"}
+{"package_name": "acme", "description": "ACME protocol implementation in Python"}
+{"package_name": "certbot-dns-cloudflare", "description": "Cloudflare DNS Authenticator plugin for Certbot"}
+{"package_name": "boto3", "description": "The AWS SDK for Python"}
+{"package_name": "urllib3", "description": "HTTP library with thread-safe connection pooling, file post, and more."}
+{"package_name": "botocore", "description": "Low-level, data-driven core of boto 3."}
+{"package_name": "requests", "description": "Python HTTP for Humans."}
+{"package_name": "certifi", "description": "Python package for providing Mozilla's CA Bundle."}
+{"package_name": "typing-extensions", "description": "Backported and Experimental Type Hints for Python 3.9+"}
+{"package_name": "setuptools", "description": "Easily download, build, install, upgrade, and uninstall Python packages"}
+{"package_name": "grpcio-status", "description": "Status proto mapping for gRPC"}
+{"package_name": "charset-normalizer", "description": "The Real First Universal Charset Detector. Open, modern and actively maintained alternative to Chardet."}
+{"package_name": "idna", "description": "Internationalized Domain Names in Applications (IDNA)"}
+{"package_name": "packaging", "description": "Core utilities for Python packages"}
+{"package_name": "python-dateutil", "description": "Extensions to the standard Python datetime module"}
+{"package_name": "aiobotocore", "description": "Async client for aws services using botocore and aiohttp"}
+{"package_name": "s3transfer", "description": "An Amazon S3 Transfer Manager"}
+{"package_name": "six", "description": "Python 2 and 3 compatibility utilities"}
+{"package_name": "numpy", "description": "Fundamental package for array computing in Python"}
+{"package_name": "pyyaml", "description": "YAML parser and emitter for Python"}
+{"package_name": "s3fs", "description": "Convenient Filesystem interface over S3"}
+{"package_name": "cryptography", "description": "cryptography is a package which provides cryptographic recipes and primitives to Python developers."}
+{"package_name": "fsspec", "description": "File-system specification"}
+{"package_name": "protobuf", "description": ""}
+{"package_name": "pydantic", "description": "Data validation using Python type hints"}
+{"package_name": "cffi", "description": "Foreign Function Interface for Python calling C code."}
+{"package_name": "importlib-metadata", "description": "Read metadata from Python packages"}
+{"package_name": "pip", "description": "The PyPA recommended tool for installing Python packages."}
+{"package_name": "pycparser", "description": "C parser in Python"}
+{"package_name": "pandas", "description": "Powerful data structures for data analysis, time series, and statistics"}
+{"package_name": "attrs", "description": "Classes Without Boilerplate"}
+{"package_name": "click", "description": "Composable command line interface toolkit"}
+{"package_name": "platformdirs", "description": "A small Python package for determining appropriate platform-specific dirs, e.g. a `user data dir`."}
+{"package_name": "rsa", "description": "Pure-Python RSA implementation"}
+{"package_name": "markupsafe", "description": "Safely add untrusted strings to HTML/XML markup."}
+{"package_name": "jmespath", "description": "JSON Matching Expressions"}
+{"package_name": "jinja2", "description": "A very fast and expressive template engine."}
+{"package_name": "pytz", "description": "World timezone definitions, modern and historical"}
+{"package_name": "zipp", "description": "Backport of pathlib-compatible object wrapper for zip files"}
+{"package_name": "pyasn1", "description": "Pure-Python implementation of ASN.1 types and DER/BER/CER codecs (X.208)"}
+{"package_name": "pluggy", "description": "plugin and hook calling mechanisms for python"}
+{"package_name": "pydantic-core", "description": "Core functionality for Pydantic validation and serialization"}
+{"package_name": "pygments", "description": "Pygments is a syntax highlighting package written in Python."}
+{"package_name": "google-api-core", "description": "Google API client core library"}
+{"package_name": "google-auth", "description": "Google Authentication Library"}
+{"package_name": "wheel", "description": "A built-package format for Python"}
+{"package_name": "h11", "description": "A pure-Python, bring-your-own-I/O implementation of HTTP/1.1"}
+{"package_name": "sniffio", "description": "Sniff out which async library your code is running under"}
+{"package_name": "colorama", "description": "Cross-platform colored terminal text."}
+{"package_name": "cachetools", "description": "Extensible memoizing collections and decorators"}
+{"package_name": "filelock", "description": "A platform independent file lock."}
+{"package_name": "anyio", "description": "High-level concurrency and networking framework on top of asyncio or Trio"}
+{"package_name": "virtualenv", "description": "Virtual Python Environment builder"}
+{"package_name": "annotated-types", "description": "Reusable constraint types to use with typing.Annotated"}
+{"package_name": "pytest", "description": "pytest: simple powerful testing with Python"}
+{"package_name": "googleapis-common-protos", "description": "Common protobufs used in Google APIs"}
+{"package_name": "grpcio-tools", "description": "Protobuf code generator for gRPC"}
+{"package_name": "httpx", "description": "The next generation HTTP client."}
+{"package_name": "tzdata", "description": "Provider of IANA time zone data"}
+{"package_name": "jsonschema", "description": "An implementation of JSON Schema validation for Python"}
+{"package_name": "pyasn1-modules", "description": "A collection of ASN.1-based protocols modules"}
+{"package_name": "iniconfig", "description": "brain-dead simple config-ini parsing"}
+{"package_name": "httpcore", "description": "A minimal low-level HTTP client."}
+{"package_name": "aiohttp", "description": "Async http client/server framework (asyncio)"}
+{"package_name": "pyjwt", "description": "JSON Web Token implementation in Python"}
+{"package_name": "tomli", "description": "A lil' TOML parser"}
+{"package_name": "awscli", "description": "Universal Command Line Environment for AWS."}
+{"package_name": "wrapt", "description": "Module for decorators, wrappers and monkey patching."}
+{"package_name": "multidict", "description": "multidict implementation"}
+{"package_name": "yarl", "description": "Yet another URL library"}
+{"package_name": "pyarrow", "description": "Python library for Apache Arrow"}
+{"package_name": "requests-oauthlib", "description": "OAuthlib authentication support for Requests."}
+{"package_name": "tqdm", "description": "Fast, Extensible Progress Meter"}
+{"package_name": "aiosignal", "description": "aiosignal: a list of registered asynchronous callbacks"}
+{"package_name": "frozenlist", "description": "A list-like structure which implements collections.abc.MutableSequence"}
+{"package_name": "psutil", "description": "Cross-platform lib for process and system monitoring in Python.  NOTE: the syntax of this script MUST be kept compatible with Python 2.7."}
+{"package_name": "tomlkit", "description": "Style preserving TOML library"}
+{"package_name": "sqlalchemy", "description": "Database Abstraction Library"}
+{"package_name": "python-dotenv", "description": "Read key-value pairs from a .env file and set them as environment variables"}
+{"package_name": "oauthlib", "description": "A generic, spec-compliant, thorough implementation of the OAuth request-signing logic"}
+{"package_name": "exceptiongroup", "description": "Backport of PEP 654 (exception groups)"}
+{"package_name": "rpds-py", "description": "Python bindings to Rust's persistent data structures (rpds)"}
+{"package_name": "pathspec", "description": "Utility library for gitignore style pattern matching of file paths."}
+{"package_name": "greenlet", "description": "Lightweight in-process concurrent programming"}
+{"package_name": "pyparsing", "description": "pyparsing module - Classes and methods to define and execute parsing grammars"}
+{"package_name": "propcache", "description": "Accelerated property cache"}
+{"package_name": "distlib", "description": "Distribution utilities"}
+{"package_name": "pillow", "description": "Python Imaging Library (Fork)"}
+{"package_name": "scipy", "description": "Fundamental algorithms for scientific computing in Python"}
+{"package_name": "jsonschema-specifications", "description": "The JSON Schema meta-schemas and vocabularies, exposed as a Registry"}
+{"package_name": "rich", "description": "Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal"}
+{"package_name": "grpcio", "description": "HTTP/2-based RPC framework"}
+{"package_name": "typing-inspection", "description": "Runtime typing introspection tools"}
+{"package_name": "referencing", "description": "JSON Referencing + Python"}
+{"package_name": "requests-toolbelt", "description": "A utility belt for advanced users of python-requests"}
+{"package_name": "beautifulsoup4", "description": "Screen-scraping library"}
+{"package_name": "soupsieve", "description": "A modern CSS selector implementation for Beautiful Soup."}
+{"package_name": "openpyxl", "description": "A Python library to read/write Excel 2010 xlsx/xlsm files"}
+{"package_name": "aiohappyeyeballs", "description": "Happy Eyeballs for asyncio"}
+{"package_name": "pyopenssl", "description": "Python wrapper module around the OpenSSL library"}
+{"package_name": "et-xmlfile", "description": "An implementation of lxml.xmlfile for the standard library"}
+{"package_name": "more-itertools", "description": "More routines for operating on iterables, beyond itertools"}
+{"package_name": "docutils", "description": "Docutils -- Python Documentation Utilities"}
+{"package_name": "markdown-it-py", "description": "Python port of markdown-it. Markdown parsing, done right!"}
+{"package_name": "mdurl", "description": "Markdown URL utilities"}
+{"package_name": "isodate", "description": "An ISO 8601 date/time/duration parser and formatter"}
+{"package_name": "lxml", "description": "Powerful and Pythonic XML processing library combining libxml2/libxslt with the ElementTree API."}
+{"package_name": "google-cloud-storage", "description": "Google Cloud Storage API client library"}
+{"package_name": "opentelemetry-semantic-conventions", "description": "OpenTelemetry Semantic Conventions"}
+{"package_name": "werkzeug", "description": "The comprehensive WSGI web application library."}
+{"package_name": "decorator", "description": "Decorators for Humans"}
+{"package_name": "msgpack", "description": "MessagePack serializer"}
+{"package_name": "mypy-extensions", "description": "Type system extensions for programs checked with the mypy type checker."}
+{"package_name": "cloudpickle", "description": "Pickler class to extend the standard pickle.Pickler functionality"}
+{"package_name": "proto-plus", "description": "Beautiful, Pythonic protocol buffers"}
+{"package_name": "trove-classifiers", "description": "Canonical source for classifiers on PyPI (pypi.org)."}
+{"package_name": "shellingham", "description": "Tool to Detect Surrounding Shell"}
+{"package_name": "websocket-client", "description": "WebSocket client for Python with low level API options"}
+{"package_name": "coverage", "description": "Code coverage measurement for Python"}
+{"package_name": "pyzmq", "description": "Python bindings for 0MQ"}
+{"package_name": "pynacl", "description": "Python binding to the Networking and Cryptography (NaCl) library"}
+{"package_name": "tenacity", "description": "Retry code until it succeeds"}
+{"package_name": "poetry-core", "description": "Poetry PEP 517 Build Backend"}
+{"package_name": "async-timeout", "description": "Timeout context manager for asyncio programs"}
+{"package_name": "sortedcontainers", "description": "Sorted Containers -- Sorted List, Sorted Dict, Sorted Set"}
+{"package_name": "azure-core", "description": "Microsoft Azure Core Library for Python"}
+{"package_name": "deprecated", "description": "Python @deprecated decorator to deprecate old python classes, functions or methods."}
+{"package_name": "opentelemetry-api", "description": "OpenTelemetry Python API"}
+{"package_name": "grpcio-health-checking", "description": "Standard Health Checking Service for gRPC"}
+{"package_name": "regex", "description": "Alternative regular expression module, to replace re."}
+{"package_name": "psycopg2-binary", "description": "psycopg2 - Python-PostgreSQL Database Adapter"}
+{"package_name": "flask", "description": "A simple framework for building complex web applications."}
+{"package_name": "starlette", "description": "The little ASGI library that shines."}
+{"package_name": "msal", "description": "The Microsoft Authentication Library (MSAL) for Python library enables your app to access the Microsoft Cloud by supporting authentication of users with Microsoft Azure Active Directory accounts (AAD) and Microsoft Accounts (MSA) using industry standard OAuth2 and OpenID Connect."}
+{"package_name": "scikit-learn", "description": "A set of python modules for machine learning and data mining"}
+{"package_name": "asn1crypto", "description": "Fast ASN.1 parser and serializer with definitions for private keys, public keys, certificates, CRL, OCSP, CMS, PKCS#3, PKCS#7, PKCS#8, PKCS#12, PKCS#5, X.509 and TSP"}
+{"package_name": "opentelemetry-sdk", "description": "OpenTelemetry Python SDK"}
+{"package_name": "wcwidth", "description": "Measures the displayed width of unicode strings in a terminal"}
+{"package_name": "google-cloud-core", "description": "Google Cloud API client core library"}
+{"package_name": "uvicorn", "description": "The lightning-fast ASGI server."}
+{"package_name": "langsmith", "description": "Client library to connect to the LangSmith LLM Tracing and Evaluation Platform."}
+{"package_name": "fastapi", "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production"}
+{"package_name": "gitpython", "description": "GitPython is a Python library used to interact with Git repositories"}
+{"package_name": "keyring", "description": "Store and access your passwords safely."}
+{"package_name": "bcrypt", "description": "Modern password hashing for your software and your servers"}
+{"package_name": "ptyprocess", "description": "Run a subprocess in a pseudo terminal"}
+{"package_name": "pexpect", "description": "Pexpect allows easy control of interactive console applications."}
+{"package_name": "azure-identity", "description": "Microsoft Azure Identity Library for Python"}
+{"package_name": "huggingface-hub", "description": "Client library to download and publish models, datasets and other repos on the huggingface.co hub"}
+{"package_name": "snowflake-connector-python", "description": "Snowflake Connector for Python"}
+{"package_name": "yandexcloud", "description": "The Yandex Cloud official SDK"}
+{"package_name": "chardet", "description": "Universal encoding detector for Python 3"}
+{"package_name": "smmap", "description": "A pure Python implementation of a sliding window memory map manager"}
+{"package_name": "tabulate", "description": "Pretty-print tabular data"}
+{"package_name": "networkx", "description": "Python package for creating and manipulating graphs and networks"}
+{"package_name": "jaraco-classes", "description": "Utility functions for Python class constructs"}
+{"package_name": "threadpoolctl", "description": "threadpoolctl"}
+{"package_name": "fastjsonschema", "description": "Fastest Python implementation of JSON schema"}
+{"package_name": "opentelemetry-proto", "description": "OpenTelemetry Python Proto"}
+{"package_name": "pyproject-hooks", "description": "Wrappers to call pyproject.toml-based build backend hooks."}
+{"package_name": "gitdb", "description": "Git Object Database"}
+{"package_name": "itsdangerous", "description": "Safely pass data to untrusted environments and back."}
+{"package_name": "jeepney", "description": "Low-level, pure Python DBus protocol wrapper."}
+{"package_name": "dnspython", "description": "DNS toolkit"}
+{"package_name": "google-resumable-media", "description": "Utilities for Google Media Downloads and Resumable Uploads"}
+{"package_name": "build", "description": "A simple, correct Python build frontend"}
+{"package_name": "secretstorage", "description": "Python bindings to FreeDesktop.org Secret Service API"}
+{"package_name": "google-api-python-client", "description": "Google API Client Library for Python"}
+{"package_name": "types-requests", "description": "Typing stubs for requests"}
+{"package_name": "matplotlib", "description": "Python plotting package"}
+{"package_name": "paramiko", "description": "SSH2 protocol library"}
+{"package_name": "dill", "description": "serialize all of Python"}
+{"package_name": "blinker", "description": "Fast, simple object-to-object and broadcast signaling"}
+{"package_name": "google-crc32c", "description": "A python wrapper of the C library 'Google CRC32C'"}
+{"package_name": "ruamel-yaml", "description": "ruamel.yaml is a YAML parser/emitter that supports roundtrip preservation of comments, seq/map flow style, and map key order"}
+{"package_name": "joblib", "description": "Lightweight pipelining with Python functions"}
+{"package_name": "prompt-toolkit", "description": "Library for building powerful interactive command lines in Python"}
+{"package_name": "rapidfuzz", "description": "rapid fuzzy string matching"}
+{"package_name": "backoff", "description": "Function decoration for backoff and retry"}
+{"package_name": "opentelemetry-instrumentation", "description": "Instrumentation Tools & Auto Instrumentation for OpenTelemetry Python"}
+{"package_name": "fonttools", "description": "Tools to manipulate font files"}
+{"package_name": "google-auth-oauthlib", "description": "Google Authentication Library"}
+{"package_name": "websockets", "description": "An implementation of the WebSocket Protocol (RFC 6455 & 7692)"}
+{"package_name": "defusedxml", "description": "XML bomb protection for Python stdlib modules"}
+{"package_name": "distro", "description": "Distro - an OS platform information API"}
+{"package_name": "kiwisolver", "description": "A fast implementation of the Cassowary constraint solver"}
+{"package_name": "importlib-resources", "description": "Read resources from Python packages"}
+{"package_name": "openai", "description": "The official Python library for the openai API"}
+{"package_name": "alembic", "description": "A database migration tool for SQLAlchemy."}
+{"package_name": "opentelemetry-exporter-otlp-proto-http", "description": "OpenTelemetry Collector Protobuf over HTTP Exporter"}
+{"package_name": "msal-extensions", "description": "Microsoft Authentication Library extensions (MSAL EX) provides a persistence API that can save your data on disk, encrypted on Windows, macOS and Linux. Concurrent data access will be coordinated by a file lock mechanism."}
+{"package_name": "awswrangler", "description": "Pandas on AWS."}
+{"package_name": "xmltodict", "description": "Makes working with XML feel like you are working with JSON"}
+{"package_name": "cycler", "description": "Composable style cycles"}
+{"package_name": "zstandard", "description": "Zstandard bindings for Python"}
+{"package_name": "pytest-cov", "description": "Pytest plugin for measuring coverage."}
+{"package_name": "redis", "description": "Python client for Redis database and key-value store"}
+{"package_name": "uritemplate", "description": "Implementation of RFC 6570 URI Templates"}
+{"package_name": "typedload", "description": "Load and dump data from json-like format into typed data structures"}
+{"package_name": "opentelemetry-util-http", "description": "Web util for OpenTelemetry"}
+{"package_name": "google-cloud-bigquery", "description": "Google BigQuery API client library"}
+{"package_name": "sqlparse", "description": "A non-validating SQL parser."}
+{"package_name": "pkginfo", "description": "Query metadata from sdists / bdists / installed packages."}
+{"package_name": "ipython", "description": "IPython: Productive Interactive Computing"}
+{"package_name": "marshmallow", "description": "A lightweight library for converting complex datatypes to and from native Python datatypes."}
+{"package_name": "ruamel-yaml-clib", "description": "C version of reader, parser and emitter for ruamel.yaml derived from libyaml"}
+{"package_name": "jaraco-functools", "description": "Functools like those found in stdlib"}
+{"package_name": "opentelemetry-exporter-otlp-proto-common", "description": "OpenTelemetry Protobuf encoding"}
+{"package_name": "tzlocal", "description": "tzinfo object for the local timezone"}
+{"package_name": "langchain", "description": "Building applications with LLMs through composability"}
+{"package_name": "httplib2", "description": "A comprehensive HTTP client library."}
+{"package_name": "py4j", "description": "Enables Python programs to dynamically access arbitrary Java objects"}
+{"package_name": "google-auth-httplib2", "description": "Google Authentication Library: httplib2 transport"}
+{"package_name": "cachecontrol", "description": "httplib2 caching for requests"}
+{"package_name": "nest-asyncio", "description": "Patch asyncio to allow nested event loops"}
+{"package_name": "docker", "description": "A Python library for the Docker Engine API."}
+{"package_name": "azure-storage-blob", "description": "Microsoft Azure Blob Storage Client Library for Python"}
+{"package_name": "google-genai", "description": "GenAI Python SDK"}
+{"package_name": "opentelemetry-instrumentation-requests", "description": "OpenTelemetry requests instrumentation"}
+{"package_name": "black", "description": "The uncompromising code formatter."}
+{"package_name": "jaraco-context", "description": "Useful decorators and context managers"}
+{"package_name": "opentelemetry-exporter-otlp-proto-grpc", "description": "OpenTelemetry Collector Protobuf over gRPC Exporter"}
+{"package_name": "cython", "description": "The Cython compiler for writing C extensions in the Python language."}
+{"package_name": "babel", "description": "Internationalization utilities"}
+{"package_name": "transformers", "description": "State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow"}
+{"package_name": "contourpy", "description": "Python library for calculating contours of 2D quadrilateral grids"}
+{"package_name": "traitlets", "description": "Traitlets Python configuration system"}
+{"package_name": "prometheus-client", "description": "Python client for the Prometheus monitoring system."}
+{"package_name": "installer", "description": "A library for installing Python wheels."}
+{"package_name": "jedi", "description": "An autocompletion tool for Python that can be used for text editors."}
+{"package_name": "weaviate-client", "description": "A python native Weaviate client"}
+{"package_name": "jsonpointer", "description": "Identify specific nodes in a JSON document (RFC 6901)"}
+{"package_name": "gym-notices", "description": "Notices for gym"}
+{"package_name": "ruff", "description": "An extremely fast Python linter and code formatter, written in Rust."}
+{"package_name": "parso", "description": "A Python Parser"}
+{"package_name": "orjson", "description": ""}
+{"package_name": "typer", "description": "Typer, build great CLIs. Easy to code. Based on Python type hints."}
+{"package_name": "toml", "description": "Python Library for Tom's Obvious, Minimal Language"}
+{"package_name": "tornado", "description": "Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed."}
+{"package_name": "poetry-plugin-export", "description": "Poetry plugin to export the dependencies to various formats"}
+{"package_name": "aliyun-python-sdk-core", "description": "The core module of Aliyun Python SDK."}
+{"package_name": "poetry", "description": "Python dependency management and packaging made easy."}
+{"package_name": "dulwich", "description": "Python Git Library"}
+{"package_name": "matplotlib-inline", "description": "Inline Matplotlib backend for Jupyter"}
+{"package_name": "crashtest", "description": "Manage Python errors with ease"}
+{"package_name": "sentry-sdk", "description": "Python client for Sentry (https://sentry.io)"}
+{"package_name": "pymysql", "description": "Pure Python MySQL Driver"}
+{"package_name": "setuptools-scm", "description": "the blessed package to manage your versions by scm tags"}
+{"package_name": "hatchling", "description": "Modern, extensible Python build backend"}
+{"package_name": "mako", "description": "A super-fast templating language that borrows the best ideas from the existing templating languages."}
+{"package_name": "isort", "description": "A Python utility / library to sort Python imports."}
+{"package_name": "mccabe", "description": "McCabe checker, plugin for flake8"}
+{"package_name": "gunicorn", "description": "WSGI HTTP Server for UNIX"}
+{"package_name": "pycodestyle", "description": "Python style guide checker"}
+{"package_name": "grpc-google-iam-v1", "description": "IAM API client library"}
+{"package_name": "nodeenv", "description": "Node.js virtual environment builder"}
+{"package_name": "kubernetes", "description": "Kubernetes python client"}
+{"package_name": "cleo", "description": "Cleo allows you to create beautiful and testable command-line interfaces."}
+{"package_name": "mypy", "description": "Optional static typing for Python"}
+{"package_name": "webencodings", "description": "Character encoding aliases for legacy web content"}
+{"package_name": "jiter", "description": "Fast iterable JSON parser."}
+{"package_name": "executing", "description": "Get the currently executing AST node of a frame, and other information"}
+{"package_name": "types-python-dateutil", "description": "Typing stubs for python-dateutil"}
+{"package_name": "asttokens", "description": "Annotate AST trees with source code positions"}
+{"package_name": "langchain-core", "description": "Building applications with LLMs through composability"}
+{"package_name": "markdown", "description": "Python implementation of John Gruber's Markdown."}
+{"package_name": "termcolor", "description": "ANSI color formatting for output in terminal"}
+{"package_name": "ply", "description": "Python Lex & Yacc"}
+{"package_name": "pydantic-settings", "description": "Settings management using Pydantic"}
+{"package_name": "stack-data", "description": "Extract data from python stack frames and tracebacks for informative displays"}
+{"package_name": "sphinx", "description": "Python documentation generator"}
+{"package_name": "tokenizers", "description": ""}
+{"package_name": "pure-eval", "description": "Safely evaluate AST nodes without side effects"}
+{"package_name": "aiofiles", "description": "File support for asyncio."}
+{"package_name": "python-json-logger", "description": "JSON Log Formatter for the Python Logging Package"}
+{"package_name": "pre-commit", "description": "A framework for managing and maintaining multi-language pre-commit hooks."}
+{"package_name": "cfgv", "description": "Validate configuration and produce human readable error messages."}
+{"package_name": "identify", "description": "File identification library for Python"}
+{"package_name": "databricks-sql-connector", "description": "Databricks SQL Connector for Python"}
+{"package_name": "typing-inspect", "description": "Runtime inspection utilities for typing module."}
+{"package_name": "python-multipart", "description": "A streaming multipart parser for Python"}
+{"package_name": "sympy", "description": "Computer algebra system (CAS) in Python"}
+{"package_name": "asgiref", "description": "ASGI specs, helper code, and adapters"}
+{"package_name": "pymongo", "description": "PyMongo - the Official MongoDB Python driver"}
+{"package_name": "notebook", "description": "Jupyter Notebook - A web-based notebook environment for interactive computing"}
+{"package_name": "pycryptodome", "description": "Cryptographic library for Python"}
+{"package_name": "pendulum", "description": "Python datetimes made easy"}
+{"package_name": "py", "description": "library with cross-python path, ini-parsing, io, code, log facilities"}
+{"package_name": "opentelemetry-exporter-otlp", "description": "OpenTelemetry Collector Exporters"}
+{"package_name": "torch", "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration"}
+{"package_name": "pytest-xdist", "description": "pytest xdist plugin for distributed testing, most importantly across multiple CPUs"}
+{"package_name": "uv", "description": "An extremely fast Python package and project manager, written in Rust."}
+{"package_name": "jsonpatch", "description": "Apply JSON-Patches (RFC 6902)"}
+{"package_name": "snowflake-sqlalchemy", "description": "Snowflake SQLAlchemy Dialect"}
+{"package_name": "shapely", "description": "Manipulation and analysis of geometric objects"}
+{"package_name": "google-cloud-secret-manager", "description": "Google Cloud Secret Manager API client library"}
+{"package_name": "future", "description": "Clean single-source support for Python 3 and 2"}
+{"package_name": "debugpy", "description": "An implementation of the Debug Adapter Protocol for Python"}
+{"package_name": "argcomplete", "description": "Bash tab completion for argparse"}
+{"package_name": "msrest", "description": "AutoRest swagger generator Python client runtime."}
+{"package_name": "execnet", "description": "execnet: rapid multi-Python deployment"}
+{"package_name": "smart-open", "description": "Utils for streaming large files (S3, HDFS, GCS, SFTP, Azure Blob Storage, gzip, bz2, zst...)"}
+{"package_name": "azure-common", "description": "Microsoft Azure Client Library for Python (Common)"}
+{"package_name": "scramp", "description": "An implementation of the SCRAM protocol."}
+{"package_name": "backports-tarfile", "description": "Backport of CPython tarfile module"}
+{"package_name": "jupyter-core", "description": "Jupyter core package. A base package on which Jupyter projects rely."}
+{"package_name": "tiktoken", "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models"}
+{"package_name": "pytest-asyncio", "description": "Pytest support for asyncio"}
+{"package_name": "semver", "description": "Python helper for Semantic Versioning (https://semver.org)"}
+{"package_name": "mpmath", "description": "Python library for arbitrary-precision floating-point arithmetic"}
+{"package_name": "datadog", "description": "The Datadog Python library"}
+{"package_name": "email-validator", "description": "A robust email address syntax and deliverability validation library."}
+{"package_name": "pyrsistent", "description": "Persistent/Functional/Immutable data structures"}
+{"package_name": "pyflakes", "description": "passive checker of Python programs"}
+{"package_name": "arrow", "description": "Better dates & times for Python"}
+{"package_name": "opensearch-py", "description": "Python client for OpenSearch"}
+{"package_name": "jsonpath-ng", "description": "A final implementation of JSONPath for Python that aims to be standard compliant, including arithmetic and binary comparison operators and providing clear AST for metaprogramming."}
+{"package_name": "tf-keras-nightly", "description": "Deep learning for humans."}
+{"package_name": "watchdog", "description": "Filesystem events monitoring"}
+{"package_name": "jupyter-client", "description": "Jupyter protocol implementation and client libraries"}
+{"package_name": "rfc3339-validator", "description": "A pure python RFC3339 validator"}
+{"package_name": "ipykernel", "description": "IPython Kernel for Jupyter"}
+{"package_name": "aioitertools", "description": "itertools and builtins for AsyncIO and mixed iterables"}
+{"package_name": "databricks-sdk", "description": "Databricks SDK for Python (Beta)"}
+{"package_name": "slack-sdk", "description": "The Slack API Platform SDK for Python"}
+{"package_name": "multiprocess", "description": "better multiprocessing and multithreading in Python"}
+{"package_name": "mistune", "description": "A sane and fast Markdown parser with useful plugins and renderers"}
+{"package_name": "dataclasses-json", "description": "Easily serialize dataclasses to and from JSON."}
+{"package_name": "pytest-mock", "description": "Thin-wrapper around the mock package for easier use with pytest"}
+{"package_name": "tinycss2", "description": "A tiny CSS parser"}
+{"package_name": "lz4", "description": "LZ4 Bindings for Python"}
+{"package_name": "redshift-connector", "description": "Redshift interface library"}
+{"package_name": "jupyterlab", "description": "JupyterLab computational environment"}
+{"package_name": "pyspark", "description": "Apache Spark Python API"}
+{"package_name": "pbs-installer", "description": "Installer for Python Build Standalone"}
+{"package_name": "bleach", "description": "An easy safelist-based HTML-sanitizing tool."}
+{"package_name": "flake8", "description": "the modular source code checker: pep8 pyflakes and co"}
+{"package_name": "requests-aws4auth", "description": "AWS4 authentication for Requests"}
+{"package_name": "mysql-connector-python", "description": "A self-contained Python driver for communicating with MySQL servers, using an API that is compliant with the Python Database API Specification v2.0 (PEP 249)."}
+{"package_name": "watchfiles", "description": "Simple, modern and high performance file watching and code reload in python."}
+{"package_name": "nbformat", "description": "The Jupyter Notebook format"}
+{"package_name": "findpython", "description": "A utility to find python versions on your system"}
+{"package_name": "comm", "description": "Jupyter Python Comm implementation, for usage in ipykernel, xeus-python etc."}
+{"package_name": "hf-xet", "description": "Fast transfer of large files with the Hugging Face Hub."}
+{"package_name": "pygithub", "description": "Use the full Github API v3"}
+{"package_name": "pycryptodomex", "description": "Cryptographic library for Python"}
+{"package_name": "nbconvert", "description": "Converting Jupyter Notebooks (.ipynb files) to other formats.  Output formats include asciidoc, html, latex, markdown, pdf, py, rst, script.  nbconvert can be used both as a Python library (`import nbconvert`) or as a command line tool (invoked as `jupyter nbconvert ...`)."}
+{"package_name": "apache-airflow-providers-common-sql", "description": "Provider package apache-airflow-providers-common-sql for Apache Airflow"}
+{"package_name": "jupyter-server", "description": "The backend—i.e. core services, APIs, and REST endpoints—to Jupyter web applications."}
+{"package_name": "tb-nightly", "description": "TensorBoard lets you watch Tensors Flow"}
+{"package_name": "uvloop", "description": "Fast implementation of asyncio event loop on top of libuv"}
+{"package_name": "text-unidecode", "description": "The most basic Text::Unidecode port"}
+{"package_name": "xlsxwriter", "description": "A Python module for creating Excel XLSX files."}
+{"package_name": "docstring-parser", "description": "Parse Python docstrings in reST, Google and Numpydoc format"}
+{"package_name": "python-slugify", "description": "A Python slugify application that also handles Unicode"}
+{"package_name": "nbclient", "description": "A client library for executing notebooks. Formerly nbconvert's ExecutePreprocessor."}
+{"package_name": "editables", "description": "Editable installations"}
+{"package_name": "google-cloud-pubsub", "description": "Google Cloud Pub/Sub API client library"}
+{"package_name": "overrides", "description": "A decorator to automatically detect mismatch when overriding a method."}
+{"package_name": "google-cloud-aiplatform", "description": "Vertex AI API client library"}
+{"package_name": "requests-file", "description": "File transport adapter for Requests"}
+{"package_name": "httptools", "description": "A collection of framework independent HTTP protocol utils."}
+{"package_name": "elasticsearch", "description": "Python client for Elasticsearch"}
+{"package_name": "zope-interface", "description": "Interfaces for Python"}
+{"package_name": "argon2-cffi", "description": "Argon2 for Python"}
+{"package_name": "simplejson", "description": "Simple, fast, extensible JSON encoder/decoder for Python"}
+{"package_name": "cattrs", "description": "Composable complex class support for attrs and dataclasses."}
+{"package_name": "humanfriendly", "description": "Human friendly output for text interfaces using Python"}
+{"package_name": "durationpy", "description": "Module for converting between datetime.timedelta and Go's Duration strings."}
+{"package_name": "argon2-cffi-bindings", "description": "Low-level CFFI bindings for Argon2"}
+{"package_name": "graphql-core", "description": "GraphQL implementation for Python, a port of GraphQL.js, the JavaScript reference implementation for GraphQL."}
+{"package_name": "google-cloud-resource-manager", "description": "Google Cloud Resource Manager API client library"}
+{"package_name": "pandocfilters", "description": "Utilities for writing pandoc filters in python"}
+{"package_name": "pysocks", "description": "A Python SOCKS client module. See https://github.com/Anorov/PySocks for more information."}
+{"package_name": "gym", "description": "Gym: A universal API for reinforcement learning environments"}
+{"package_name": "jupyterlab-pygments", "description": "Pygments theme using JupyterLab CSS variables"}
+{"package_name": "dbt-core", "description": "With dbt, data analysts and engineers can build analytics the way engineers build applications."}
+{"package_name": "aenum", "description": "Advanced Enumerations (compatible with Python's stdlib Enum), NamedTuples, and NamedConstants"}
+{"package_name": "nltk", "description": "Natural Language Toolkit"}
+{"package_name": "gcsfs", "description": "Convenient Filesystem interface over GCS"}
+{"package_name": "xlrd", "description": "Library for developers to extract data from Microsoft Excel (tm) .xls spreadsheet files"}
+{"package_name": "pg8000", "description": "PostgreSQL interface library"}
+{"package_name": "ordered-set", "description": "An OrderedSet is a custom MutableSet that remembers its order, so that every"}
+{"package_name": "toolz", "description": "List processing tools and functional utilities"}
+{"package_name": "types-pyyaml", "description": "Typing stubs for PyYAML"}
+{"package_name": "json5", "description": "A Python implementation of the JSON5 data format."}
+{"package_name": "astroid", "description": "An abstract syntax tree for Python with inference support."}
+{"package_name": "hpack", "description": "Pure-Python HPACK header encoding"}
+{"package_name": "nvidia-cublas-cu12", "description": "CUBLAS native runtime libraries"}
+{"package_name": "hyperframe", "description": "Pure-Python HTTP/2 framing"}
+{"package_name": "nvidia-cusparse-cu12", "description": "CUSPARSE native runtime libraries"}
+{"package_name": "google-cloud-appengine-logging", "description": "Google Cloud Appengine Logging API client library"}
+{"package_name": "h2", "description": "Pure-Python HTTP/2 protocol implementation"}
+{"package_name": "colorlog", "description": "Add colours to the output of Python's logging module."}
+{"package_name": "jupyterlab-server", "description": "A set of server components for JupyterLab and JupyterLab like applications."}
+{"package_name": "deepdiff", "description": "Deep Difference and Search of any Python object/data. Recreate objects by adding adding deltas to each other."}
+{"package_name": "selenium", "description": "Official Python bindings for Selenium WebDriver"}
+{"package_name": "db-dtypes", "description": "Pandas Data Types for SQL systems (BigQuery, Spanner)"}
+{"package_name": "wsproto", "description": "WebSockets state-machine based protocol implementation"}
+{"package_name": "azure-storage-file-datalake", "description": "Microsoft Azure File DataLake Storage Client Library for Python"}
+{"package_name": "safetensors", "description": ""}
+{"package_name": "nvidia-nccl-cu12", "description": "NVIDIA Collective Communication Library (NCCL) Runtime"}
+{"package_name": "snowflake-snowpark-python", "description": "Snowflake Snowpark for Python"}
+{"package_name": "nvidia-nvjitlink-cu12", "description": "Nvidia JIT LTO Library"}
+{"package_name": "google-pasta", "description": "pasta is an AST-based Python refactoring library"}
+{"package_name": "faker", "description": "Faker is a Python package that generates fake data for you."}
+{"package_name": "narwhals", "description": "Extremely lightweight compatibility layer between dataframe libraries"}
+{"package_name": "typeguard", "description": "Run-time type checker for Python"}
+{"package_name": "nvidia-cudnn-cu12", "description": "cuDNN runtime libraries"}
+{"package_name": "webcolors", "description": "A library for working with the color formats defined by HTML and CSS."}
+{"package_name": "absl-py", "description": "Abseil Python Common Libraries, see https://github.com/abseil/abseil-py."}
+{"package_name": "pylint", "description": "python code static checker"}
+{"package_name": "altair", "description": "Vega-Altair: A declarative statistical visualization library for Python."}
+{"package_name": "google-cloud-logging", "description": "Stackdriver Logging API client library"}
+{"package_name": "nvidia-cufft-cu12", "description": "CUFFT native runtime libraries"}
+{"package_name": "nvidia-cusolver-cu12", "description": "CUDA solver native runtime libraries"}
+{"package_name": "croniter", "description": "croniter provides iteration for datetime object with cron like format"}
+{"package_name": "structlog", "description": "Structured Logging for Python"}
+{"package_name": "nvidia-cuda-cupti-cu12", "description": "CUDA profiling tools runtime libs."}
+{"package_name": "nvidia-curand-cu12", "description": "CURAND native runtime libraries"}
+{"package_name": "portalocker", "description": "Wraps the portalocker recipe for easy usage"}
+{"package_name": "send2trash", "description": "Send file to trash natively under Mac OS X, Windows and Linux"}
+{"package_name": "nvidia-cuda-runtime-cu12", "description": "CUDA Runtime native Libraries"}
+{"package_name": "nvidia-cuda-nvrtc-cu12", "description": "NVRTC native runtime libraries"}
+{"package_name": "azure-keyvault-secrets", "description": "Microsoft Corporation Key Vault Secrets Client Library for Python"}
+{"package_name": "fqdn", "description": "Validates fully-qualified domain names against RFC 1123, so that they are acceptable to modern bowsers"}
+{"package_name": "setproctitle", "description": "A Python module to customize the process title"}
+{"package_name": "isoduration", "description": "Operations with ISO 8601 durations"}
+{"package_name": "responses", "description": "A utility library for mocking out the `requests` Python library."}
+{"package_name": "httpx-sse", "description": "Consume Server-Sent Event (SSE) messages with HTTPX."}
+{"package_name": "uri-template", "description": "RFC 6570 URI Template Processor"}
+{"package_name": "apache-beam", "description": "Apache Beam SDK for Python"}
+{"package_name": "aws-lambda-powertools", "description": "Powertools for AWS Lambda (Python) is a developer toolkit to implement Serverless best practices and increase developer velocity."}
+{"package_name": "authlib", "description": "The ultimate Python library in building OAuth and OpenID Connect servers and clients."}
+{"package_name": "deprecation", "description": "A library to handle automated deprecations"}
+{"package_name": "confluent-kafka", "description": "Confluent's Python client for Apache Kafka"}
+{"package_name": "terminado", "description": "Tornado websocket backend for the Xterm.js Javascript terminal emulator library."}
+{"package_name": "async-lru", "description": "Simple LRU cache for asyncio"}
+{"package_name": "antlr4-python3-runtime", "description": "ANTLR 4.13.2 runtime for Python 3"}
+{"package_name": "plotly", "description": "An open-source interactive data visualization library for Python"}
+{"package_name": "loguru", "description": "Python logging made (stupidly) simple"}
+{"package_name": "ipywidgets", "description": "Jupyter interactive widgets"}
+{"package_name": "rfc3986-validator", "description": "Pure python rfc3986 validator"}
+{"package_name": "sagemaker", "description": "Open source library for training and deploying models on Amazon SageMaker."}
+{"package_name": "notebook-shim", "description": "A shim layer for notebook traits and config"}
+{"package_name": "dbt-adapters", "description": "The set of adapter protocols and base functionality that supports integration with dbt-core"}
+{"package_name": "widgetsnbextension", "description": "Jupyter interactive widgets for Jupyter Notebook"}
+{"package_name": "inflection", "description": "A port of Ruby on Rails inflector to Python"}
+{"package_name": "imageio", "description": "Library for reading and writing a wide range of image, video, scientific, and volumetric data formats."}
+{"package_name": "triton", "description": "A language and compiler for custom Deep Learning operations"}
+{"package_name": "jupyterlab-widgets", "description": "Jupyter interactive widgets for JupyterLab"}
+{"package_name": "pbr", "description": "Python Build Reasonableness"}
+{"package_name": "jupyter-events", "description": "Jupyter Event System library"}
+{"package_name": "datasets", "description": "HuggingFace community-driven open-source library of datasets"}
+{"package_name": "schema", "description": "Simple data validation library"}
+{"package_name": "sshtunnel", "description": "Pure python SSH tunnels"}
+{"package_name": "rfc3986", "description": "Validating URI References per RFC 3986"}
+{"package_name": "opentelemetry-exporter-prometheus", "description": "Prometheus Metric Exporter for OpenTelemetry"}
+{"package_name": "ecdsa", "description": "ECDSA cryptographic signature library (pure python)"}
+{"package_name": "sqlalchemy-bigquery", "description": "SQLAlchemy dialect for BigQuery"}
+{"package_name": "pyodbc", "description": "DB API module for ODBC"}
+{"package_name": "delta-spark", "description": "Python APIs for using Delta Lake with Apache Spark"}
+{"package_name": "oauth2client", "description": "OAuth 2.0 client library"}
+{"package_name": "click-plugins", "description": "An extension module for click to enable registering CLI commands via setuptools entry-points."}
+{"package_name": "retry", "description": "Easy to use retry decorator."}
+{"package_name": "numba", "description": "compiling Python code using LLVM"}
+{"package_name": "appdirs", "description": "A small Python module for determining appropriate platform-specific dirs, e.g. a \"user data dir\"."}
+{"package_name": "azure-mgmt-core", "description": "Microsoft Azure Management Core Library for Python"}
+{"package_name": "seaborn", "description": "Statistical data visualization"}
+{"package_name": "xgboost", "description": "XGBoost Python Package"}
+{"package_name": "types-protobuf", "description": "Typing stubs for protobuf"}
+{"package_name": "tensorboard", "description": "TensorBoard lets you watch Tensors Flow"}
+{"package_name": "gevent", "description": "Coroutine-based network library"}
+{"package_name": "flatbuffers", "description": "The FlatBuffers serialization format for Python"}
+{"package_name": "progressbar2", "description": "A Python Progressbar library to provide visual (yet text based) progress to long running operations."}
+{"package_name": "tableauserverclient", "description": "A Python module for working with the Tableau Server REST API."}
+{"package_name": "jupyter-server-terminals", "description": "A Jupyter Server Extension Providing Terminals."}
+{"package_name": "dbt-common", "description": "The shared common utilities that dbt-core and adapter implementations use"}
+{"package_name": "trio", "description": "A friendly Python library for async concurrency and I/O"}
+{"package_name": "pytzdata", "description": "The Olson timezone database for Python."}
+{"package_name": "pandas-gbq", "description": "Google BigQuery connector for pandas"}
+{"package_name": "lazy-object-proxy", "description": "A fast and thorough lazy object proxy."}
+{"package_name": "google-cloud-dataproc", "description": "Google Cloud Dataproc API client library"}
+{"package_name": "pymssql", "description": "DB-API interface to Microsoft SQL Server for Python. (new Cython-based version)"}
+{"package_name": "langchain-community", "description": "Community contributed LangChain integrations."}
+{"package_name": "google-cloud-audit-log", "description": "Google Cloud Audit Protos"}
+{"package_name": "kombu", "description": "Messaging library for Python."}
+{"package_name": "psycopg2", "description": "psycopg2 - Python-PostgreSQL Database Adapter"}
+{"package_name": "coloredlogs", "description": "Colored terminal output for Python's logging module"}
+{"package_name": "llvmlite", "description": "lightweight wrapper around basic LLVM functionality"}
+{"package_name": "ninja", "description": "Ninja is a small build system with a focus on speed"}
+{"package_name": "jupyter-lsp", "description": "Multi-Language Server WebSocket proxy for Jupyter Notebook/Lab server"}
+{"package_name": "django", "description": "A high-level Python web framework that encourages rapid development and clean, pragmatic design."}
+{"package_name": "adal", "description": "Note: This library is already replaced by MSAL Python, available here: https://pypi.org/project/msal/ .ADAL Python remains available here as a legacy. The ADAL for Python library makes it easy for python application to authenticate to Azure Active Directory (AAD) in order to access AAD protected web resources."}
+{"package_name": "mock", "description": "Rolling backport of unittest.mock for all Pythons"}
+{"package_name": "pkgutil-resolve-name", "description": "Resolve a name to an object."}
+{"package_name": "python-utils", "description": "Python Utils is a module with some convenient utilities not included with the standard Python install"}
+{"package_name": "pipenv", "description": "Python Development Workflow for Humans."}
+{"package_name": "nvidia-nvtx-cu12", "description": "NVIDIA Tools Extension"}
+{"package_name": "google-cloud-monitoring", "description": "Google Cloud Monitoring API client library"}

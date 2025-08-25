@@ -1,0 +1,6 @@
+FINAL REPORT - JAVASCRIPT
+========================================
+Total detected packages: 557
+Hallucinated packages: 69
+Valid packages: 488
+Hallucination rate: 12.39%

@@ -1,0 +1,5 @@
+{"package_name": "cloudflare", "description": "The official Python library for the cloudflare API"}
+{"package_name": "acme", "description": "ACME protocol implementation in Python"}
+{"package_name": "certbot-dns-cloudflare", "description": "Cloudflare DNS Authenticator plugin for Certbot"}
+{"package_name": "boto3", "description": "The AWS SDK for Python"}
+{"package_name": "urllib3", "description": "HTTP library with thread-safe connection pooling, file post, and more."}

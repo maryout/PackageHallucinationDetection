@@ -1,0 +1,8 @@
+FINAL REPORT - PYTHON
+========================================
+Total detected packages: 268
+Hallucinated packages: 25
+Valid packages: 243
+Hallucination rate: 9.33%
+
+

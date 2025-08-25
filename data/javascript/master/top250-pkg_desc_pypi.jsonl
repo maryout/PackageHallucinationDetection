@@ -1,0 +1,250 @@
+{"package_name": "prompt", "description": "A beautiful command-line prompt for node.js"}
+{"package_name": "prompts", "description": "Lightweight, beautiful and user-friendly prompts"}
+{"package_name": "inquirer", "description": "A collection of common interactive command line user interfaces."}
+{"package_name": "yn", "description": "Parse yes/no like values"}
+{"package_name": "sweetalert2", "description": "A beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes, supported fork of sweetalert"}
+{"package_name": "promptly", "description": "Simple command line prompting utility"}
+{"package_name": "@commitlint/prompt", "description": "commitizen prompt using commitlint.config.js"}
+{"package_name": "@commitlint/prompt-cli", "description": "commit prompt using commitlint.config.js"}
+{"package_name": "enquirer", "description": "Stylish, intuitive and user-friendly prompt system. Fast and lightweight enough for small projects, powerful and extensible enough for the most advanced use cases."}
+{"package_name": "inquirer-autocomplete-prompt", "description": "Autocomplete prompt for inquirer"}
+{"package_name": "mongodb-connection-string-url", "description": "MongoDB connection strings, based on the WhatWG URL API"}
+{"package_name": "expo-permissions", "description": "Allows you prompt for various permissions to access device sensors, personal data, etc."}
+{"package_name": "amplify-prompts", "description": "Utility functions for Amplify CLI terminal I/O"}
+{"package_name": "bootbox", "description": "Wrappers for JavaScript alert(), confirm(), prompt(), and other flexible dialogs using the Bootstrap framework"}
+{"package_name": "prompt-confirm", "description": "Confirm (yes/no) prompt. Can be used standalone or with a prompt system like [Enquirer]."}
+{"package_name": "@jsdevtools/version-bump-prompt", "description": "Automatically (or with prompts) bump your version number, commit changes, tag, and push to Git"}
+{"package_name": "jquery.terminal", "description": "jQuery Terminal Emulator is a plugin for creating command line interpreters in your applications."}
+{"package_name": "react-router-navigation-prompt", "description": "A replacement component for the react-router `<Prompt/>`. Allows for more flexible dialogs."}
+{"package_name": "vue-sweetalert2", "description": "Simple Vue sweetalert2 package"}
+{"package_name": "nash", "description": "Craft command-line Masterpieces"}
+{"package_name": "spaceship-prompt", "description": "A Zsh prompt for Astronauts."}
+{"package_name": "prompt-actions", "description": "Action manager for prompt-base."}
+{"package_name": "prompt-base", "description": "Base prompt module used for creating custom prompts."}
+{"package_name": "prompt-list", "description": "List-style prompt. Can be used as a standalone prompt, or with a prompt system like [enquirer]."}
+{"package_name": "prompt-choices", "description": "Create an array of multiple choice objects for use in prompts."}
+{"package_name": "@vk-io/stateless-prompt", "description": "Stateless prompts for the library vk-io"}
+{"package_name": "prompt-radio", "description": "Radio prompt. Can be used as a standalone prompt, or as a plugin for [Enquirer]."}
+{"package_name": "init-package-json", "description": "A node module to get your node module started"}
+{"package_name": "prompt-question", "description": "Question object, used by Enquirer and prompt plugins."}
+{"package_name": "prompt-password", "description": "Password prompt. Can be used as a standalone prompt, or as a plugin for [Enquirer]."}
+{"package_name": "prompt-promise", "description": "Sane CLI user-input (command prompt, confirm, multiline, password) as promises, it can be used with co@4"}
+{"package_name": "spaceship-prompt-async", "description": "A Zsh prompt for Astronauts. Async version."}
+{"package_name": "inquirer-maxlength-input-prompt", "description": "Input prompt with max length for inquirer"}
+{"package_name": "prompt-input", "description": "Basic text input prompt. This can be used standalone, but it's also included in [enquirer] by default."}
+{"package_name": "prompt-checkbox", "description": "Multiple-choice/checkbox prompt. Can be used standalone or with a prompt system like [Enquirer]."}
+{"package_name": "smalltalk", "description": "Promise-based Alert, Confirm and Prompt replacement"}
+{"package_name": "@jesses/spaceship-prompt", "description": "A Zsh prompt for Astronauts."}
+{"package_name": "@byteclaw/use-prompt", "description": "React hook and component for prompting the user to input anything using your custom components"}
+{"package_name": "inquirer-directory", "description": "a directory (relative to given path) selector for Inquirer.js"}
+{"package_name": "inquirer-autocomplete-prompt-ipt", "description": "Inquirer autocomplete prompt fork, optimized for ipt"}
+{"package_name": "@kaiser-software/version-bump-prompt", "description": "Automatically (or with prompts) bump your version number, commit changes, tag, and push to Git"}
+{"package_name": "rn-prompt", "description": "A cross-platform prompt component for React Native."}
+{"package_name": "prompt-rawlist", "description": "Rawlist prompt. Can be used as a standalone prompt, or with a prompt system like [Enquirer]."}
+{"package_name": "inquirer-select-directory", "description": "A directory prompt for Inquirer.js"}
+{"package_name": "use-prompt", "description": "Display a react component to a user asynchronously"}
+{"package_name": "sudo-prompt", "description": "Run a command using sudo, prompting the user with an OS dialog if necessary"}
+{"package_name": "radio-symbol", "description": "Unicode radio button symbol, for toggling on/off in prompts."}
+{"package_name": "@poppinss/prompts", "description": "Module on top of enquirer with API to fake prompts during testing"}
+{"package_name": "prompt-run", "description": "Run commands based on user input, dynamically generating environment variables, arguments, flags"}
+{"package_name": "prompt-answer", "description": "Utility for answering prompts. Useful for unit tests, or when answer values are known in advance."}
+{"package_name": "vk-auth-prompt", "description": "CLI auth prompt for vk.com api - https://vk.com/dev"}
+{"package_name": "scribe-plugin-link-prompt-command", "description": "A Scribe plugin to simplify the process of adding valid urls in links."}
+{"package_name": "version-bump-prompt2", "description": "Automatically (or with prompts) bump your version number, commit changes, tag, and push to Git"}
+{"package_name": "live-prompt", "description": "Simple console with history and redux data flow."}
+{"package_name": "amplify-cli-shared-interfaces", "description": "API interfaces to be shared across different amplfy-cli packages"}
+{"package_name": "github-oauth-prompt", "description": "Easy creation of GitHub OAuth tokens for your app name"}
+{"package_name": "pure-prompt", "description": "Pretty, minimal and fast ZSH prompt"}
+{"package_name": "prompt-gh-clone", "description": "Prompt for the owner/name of a GitHub repository to clone."}
+{"package_name": "answer-prompt", "description": "Answer prompts written to stderr or stdout."}
+{"package_name": "date-prompt", "description": "A CLI date picker prompt."}
+{"package_name": "minimal-prompt", "description": "A minimal command line prompting library"}
+{"package_name": "typewritten", "description": "A minimal, lightweight, informative zsh prompt theme"}
+{"package_name": "@spryker-lerna/prompt", "description": "An internal Lerna tool"}
+{"package_name": "discordjs-prompter", "description": "Prompt for a user response using reactions or a message."}
+{"package_name": "prompt-set", "description": "Create quick setup prompts for users that can be gone through in any order of their choosing as long as some prerequisites are met"}
+{"package_name": "@rcp/c.prompt", "description": "Advanced React router prompt support beforeunload"}
+{"package_name": "insomnia-plugin-prompt", "description": "Insomnia prompt template tag"}
+{"package_name": "terra-navigation-prompt", "description": "The NavigationPrompt and NavigationPromptCheckpoint components allow for the detection and management of components with unsaved state."}
+{"package_name": "minimal-password-prompt", "description": "Minimal hidden password prompt with no dependencies for Node.js."}
+{"package_name": "file-prompt", "description": "An interactive prompt for selecting files from a directory."}
+{"package_name": "nps-autocomplete-prompt", "description": "Autocomplete prompt for nps scripts"}
+{"package_name": "@sap-devx/yeoman-ui-types", "description": "Yeoman-UI prompt types"}
+{"package_name": "graphcool-inquirer", "description": "Fork of inquirer.js with empty line after question"}
+{"package_name": "prompts-ex", "description": "Lightweight, beautiful and user-friendly prompts"}
+{"package_name": "react-pwa-install-prompt", "description": "A react hook to prompt the install of your PWA in supported browers (Chrome desktop &amp; mobile)"}
+{"package_name": "@travi/language-scaffolder-prompts", "description": "shared Inquirer prompt definitions for language scaffolders used as part of the project scaffolder"}
+{"package_name": "inquirer-autocomplete-custom-prompt", "description": "An Inquirer plugin for custom autocomplete support."}
+{"package_name": "@form8ion/overridable-prompts", "description": "Inquirer prompts that can be overriden with provided answers"}
+{"package_name": "alertifyjs", "description": "AlertifyJS is a javascript framework for developing pretty browser dialogs and notifications."}
+{"package_name": "nodeprompt", "description": "A smart Git prompt for your terminal"}
+{"package_name": "@moleculer/vorpal", "description": "Node's first framework for building immersive CLI apps."}
+{"package_name": "@obatfr/sweetalert2", "description": "A beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes, supported fork of sweetalert"}
+{"package_name": "producthunt-floating-prompt", "description": "⚡️ Invite your users to support you on product hunt with this floating prompt"}
+{"package_name": "dev3s-react-native-prompt", "description": "A cross-platform prompt component for React Native. (~0.55.2)"}
+{"package_name": "@puregram/prompt", "description": "Basic prompt system implemetation for puregram"}
+{"package_name": "svelte-accessible-dialog", "description": "An accessible dialog component for Svelte apps"}
+{"package_name": "choices-separator", "description": "Separator for choices arrays in prompts. Based on the Separator from inquirer."}
+{"package_name": "nor-prompt-parser", "description": "Base implementation for parsers"}
+{"package_name": "sudo-prompt-alt", "description": "Run a command using sudo, prompting the user with an OS dialog if necessary"}
+{"package_name": "@apitoday/inquirer-autocomplete-prompt", "description": "Autocomplete prompt for inquirer"}
+{"package_name": "readline-sync", "description": "Synchronous Readline for interactively running to have a conversation with the user via a console(TTY)."}
+{"package_name": "promptees", "description": "A small tool to make it easy to create an interactive chatbot."}
+{"package_name": "prompt-tmp", "description": "A beautiful command-line prompt for node.js"}
+{"package_name": "@rizzlesauce/inquirer-autocomplete-prompt", "description": "Autocomplete prompt for inquirer"}
+{"package_name": "souffleur", "description": "Simple command line prompt with retry for empty answers"}
+{"package_name": "confirm-simple", "description": "A simple command-line tool to confirm"}
+{"package_name": "gulp-interactive", "description": "Gulp interactive prompt."}
+{"package_name": "@nurdiansyah/bump", "description": "Automatically (or with prompts) bump your version number, commit changes, tag, and push to Git"}
+{"package_name": "cortex-init-prompts", "description": "Prompts asked when initializing a new cortex project."}
+{"package_name": "@byteclaw/use-event-emitter", "description": "React hooks and components for construction of simple event emitters"}
+{"package_name": "config-prompt", "description": "Configuration store with a cli prompt and JSON Schema validation"}
+{"package_name": "vue-pwa-install", "description": "<div align=\"center\">   <h1>Vue PWA Install</h1>"}
+{"package_name": "@ericbiewener/inquirer-autocomplete-prompt", "description": "Autocomplete prompt for inquirer"}
+{"package_name": "promise-prompt", "description": "Prompt for standard input"}
+{"package_name": "@alicloud/console-base-error-prompt", "description": "ConsoleBase 错误弹窗器"}
+{"package_name": "inquirer-file-path", "description": "a file (relative to given path) selector for Inquirer.js"}
+{"package_name": "serverline", "description": "Better prompt interface when a new line is added when input is active"}
+{"package_name": "askcharacter", "description": "Prompt for a single character"}
+{"package_name": "@zestia/ember-modal-dialog", "description": "A simple modal dialog component for Ember apps"}
+{"package_name": "@byteclaw/use-unique-id", "description": "React hook to generate unique ids for your components"}
+{"package_name": "ltcdr", "description": "the complete solution for node.js command-line programs"}
+{"package_name": "askpassword", "description": "A password prompt that does print data to the TTY"}
+{"package_name": "@inquirer/input", "description": "Inquirer input text prompt"}
+{"package_name": "tests-selector", "description": "Makes it easy to select tests for local test runs"}
+{"package_name": "create-nodejs-project", "description": "An npm initializer to scaffold a node project and include basic tools like lint, testing, etc."}
+{"package_name": "prompt-anything", "description": "Framework to build a a tree of modular and interactable prompts for anything"}
+{"package_name": "go-plugin-quiz", "description": "Go plugin to communicate with user using shell prompt"}
+{"package_name": "microgen", "description": "micro-generator for individual files, easy like sunday morning"}
+{"package_name": "@developertheexplorer/editor", "description": "Inquirer multiline editor prompt"}
+{"package_name": "@developertheexplorer/input", "description": "Inquirer input text prompt"}
+{"package_name": "commit-prompt", "description": "Trucknet's official commit tool, based on Conventional Commits ideology. Prompts for a commit type, scope; gets JIRA id automatically from branch name (or asks for it), asks for any BREAKING CHANGES and gets full commit body."}
+{"package_name": "prompt-path", "description": "Get the file system path in CLI app"}
+{"package_name": "simpleprompt", "description": "Simple custom dialog prompts based on jQuery."}
+{"package_name": "browser-permission-prompts", "description": "On-screen locations (x, y) for permissions prompts in major browsers"}
+{"package_name": "react-pwa-installer-prompt", "description": "Provide your own custom install flow, directly within your app."}
+{"package_name": "inquirer-credentials", "description": "credentials prompt for CLI apps"}
+{"package_name": "prompt-persist", "description": "prompt value persistence decorator"}
+{"package_name": "@developertheexplorer/confirm", "description": "Inquirer confirm prompt"}
+{"package_name": "inquirer-datepicker", "description": "Datepicker prompt for inquirer.js"}
+{"package_name": "ask-user", "description": "A simple CLI prompt to get user input."}
+{"package_name": "@developertheexplorer/password", "description": "Inquirer password prompt"}
+{"package_name": "@developertheexplorer/rawlist", "description": "Inquirer rawlist prompt"}
+{"package_name": "mute-prompt", "description": "A utility used to generate command line prompts that have the keyboard input muted."}
+{"package_name": "readline-ui", "description": "Create a readline interface with default settings to use in prompts."}
+{"package_name": "@inquirer/confirm", "description": "Inquirer confirm prompt"}
+{"package_name": "monaca-inquirer", "description": "A collection of common interactive command line user interfaces."}
+{"package_name": "@officr/prompt", "description": "prompt utils"}
+{"package_name": "opta", "description": "Collect user input from cli flags, interactive prompts, and js input."}
+{"package_name": "@simplyappdevs/nodejs-prompt", "description": "NodeJS prompt module"}
+{"package_name": "hijack-stream", "description": "Temporarily take over a readable stream"}
+{"package_name": "react-router-navigation-confirm", "description": "A collection of components to display a custom confirmation dialog on navigation. More flexible solution to prevent than default react-router 'Prompt'"}
+{"package_name": "yes-no-words", "description": "Get yes/no-like words"}
+{"package_name": "httprompt", "description": "A readline prompt for interacting with APIs."}
+{"package_name": "@alicloud/console-base-demo-helper-error-prompt", "description": "ConsoleBase Demo Helper for Error Prompt"}
+{"package_name": "@jswork/generator-prompts", "description": "Yeoman generator prompts."}
+{"package_name": "@cypress/questions-remain", "description": "Asks the user to provide the remaining options not specified via CLI"}
+{"package_name": "cocoadialog", "description": "Node.js wrapper for cocoaDialog"}
+{"package_name": "yeoman-prompting-helpers", "description": "share prompting answers with other generators"}
+{"package_name": "@moyuyc/inquirer-autocomplete-prompt", "description": "Autocomplete prompt for inquirer"}
+{"package_name": "@ccheever/inquirer", "description": "A collection of common interactive command line user interfaces."}
+{"package_name": "promptosaurus", "description": "simple command line prompt tool"}
+{"package_name": "synchro-prompt", "description": "super simple synchronous cli prompt using readline-sync with chalk coloring"}
+{"package_name": "asks", "description": "An altered fork of inquirer.js, a collection of common interactive command line user interfaces."}
+{"package_name": "@spryker-lerna/otplease", "description": "Prompt for OTP when wrapped Promise fails"}
+{"package_name": "common-generator-prompts", "description": "Common yeoman generator prompts, actually inquirer prompts, to handle package informations"}
+{"package_name": "@alicloud/console-base-error-prompt-proxy", "description": "ConsoleBase 错误弹窗器（集中代理）"}
+{"package_name": "minbox", "description": "mini popup component"}
+{"package_name": "promptu", "description": "Micro CSS-in-JS library"}
+{"package_name": "init-module", "description": "Add some sugar to the npm init command."}
+{"package_name": "@developertheexplorer/select", "description": "Inquirer select/list prompt"}
+{"package_name": "prompt-sync", "description": "a synchronous prompt for node.js"}
+{"package_name": "@developertheexplorer/expand", "description": "Inquirer checkbox prompt"}
+{"package_name": "@developertheexplorer/checkbox", "description": "Inquirer checkbox prompt"}
+{"package_name": "expandable", "description": "UNIX shell style file globbing in that painlessly ports to Windows."}
+{"package_name": "ngx-angular8-sweetalert2", "description": "Fixed JSDoc Issue! A beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes, supported fork of sweetalert"}
+{"package_name": "promptconfig", "description": "Craft a custom terminal prompt with JSON."}
+{"package_name": "makitso-prompt", "description": "a terminal prompt"}
+{"package_name": "ember-dialogs", "description": "Customizable implementation of `alert`, `confirm` and `prompt` modal dialogs with straightforward API"}
+{"package_name": "@inquirer/select", "description": "Inquirer select/list prompt"}
+{"package_name": "@justinc/prompt-del-as-promised", "description": "Delete by given patterns after prompting (promise based)"}
+{"package_name": "twilio-cli", "description": "Unleash the power of Twilio from your command prompt. Visit https://twil.io/cli for documentation."}
+{"package_name": "electron-prompt", "description": "Electron helper to prompt for a value via input or select"}
+{"package_name": "@inquirer/checkbox", "description": "Inquirer checkbox prompt"}
+{"package_name": "entoli", "description": "Simple Interactive Cli Input"}
+{"package_name": "@creuna/prompt", "description": "Node module for getting user input in shell"}
+{"package_name": "prompt-view", "description": "Modal dialogue for asynchronously prompting users for their input."}
+{"package_name": "paulsevere-enquirer", "description": "Forked from https://github.com/enquirer/enquirer -->   Stylish, intuitive and user-friendly prompt system. Fast and lightweight enough for small projects, powerful and extensible enough for the most advanced use cases."}
+{"package_name": "ssh2shell", "description": "A wrapper class for ssh2 to run multiple sequential commands in an SSH shell session, handle command responses, and tunnel through to other hosts using nested host objects"}
+{"package_name": "enquirer-browserify", "description": "Clone of enquirer, that works in the browser"}
+{"package_name": "promptus", "description": "A tiny library to create simple, interactive CLI prompts"}
+{"package_name": "@yukikaze-bot/prompt", "description": "A simple cli prompter."}
+{"package_name": "discord.js-prompts", "description": "Create prompts in Discord, just like you would in console!"}
+{"package_name": "github-sponsors", "description": "Prompt your users to donate after `npm install`"}
+{"package_name": "@tiledb-inc/tiledb_prompt_options", "description": "TileDB notebook extension to prompt user for notebook options"}
+{"package_name": "basic-prompt", "description": "Simple prompt for Node.js console applications."}
+{"package_name": "inquirer-ordinal-prompt", "description": "Inquirer prompt for ordered multiselect choices"}
+{"package_name": "justified", "description": "Wraps words to a specified length and justifies the text in each line."}
+{"package_name": "@inquirer/password", "description": "Inquirer password prompt"}
+{"package_name": "react-router-prompt", "description": "React Router Navigation Prompt for v6"}
+{"package_name": "@five-show/antd-prompt", "description": "a simple prompt for ant design"}
+{"package_name": "shellcraft", "description": "Simple CLI and shell for Node.js based on commander and inquirer."}
+{"package_name": "@inquirer/editor", "description": "Inquirer multiline editor prompt"}
+{"package_name": "install-prompt-banner", "description": "This is a small library for handling install Banner for Progressive Web Apps(PWA)"}
+{"package_name": "@inquirer/expand", "description": "Inquirer checkbox prompt"}
+{"package_name": "@aleclarson/inquirer", "description": "Interactive command line"}
+{"package_name": "prompt-expand", "description": "Expand prompt. Can be used as a standalone prompt, or with a prompt system like [Enquirer]."}
+{"package_name": "@inquirer/core", "description": "Core Inquirer prompt API"}
+{"package_name": "askline", "description": "A single-line prompt that allows reading data from user input"}
+{"package_name": "@deno/shim-prompts", "description": "alert, confirm, and prompt for Node.js"}
+{"package_name": "params-js", "description": "This simple Nodejs module implements loading of an app configuration from a JSON file, CLI, environment variables or asynchronous input."}
+{"package_name": "@omiu/toast", "description": "Pop up prompt box."}
+{"package_name": "@rsuite/interactions", "description": "Call rsuite Modal at ease."}
+{"package_name": "@inquirer/rawlist", "description": "Inquirer rawlist prompt"}
+{"package_name": "@slimio/json-schema-prompt", "description": "Tool to verify and create some json schema"}
+{"package_name": "arguable", "description": "Usage-first argument parser."}
+{"package_name": "@bryce-gibson/inquirer-file-path", "description": "a file (relative to given path) selector for Inquirer.js"}
+{"package_name": "speajus-inquirer-directory-fork", "description": "A fork of a inquirer-directory to allow file selection (relative to given path) selector for Inquirer.js"}
+{"package_name": "inquirer-directory-undergen", "description": "a directory (relative to given path) selector for Inquirer.js"}
+{"package_name": "@msg-labs/cli-prompt-list", "description": "A prompt your users for an option with an interactive list"}
+{"package_name": "inquirer-interrupted-prompt", "description": "Turning any existing inquirer and its plugin prompts into prompts that can be interrupted with a custom key"}
+{"package_name": "@flua/enum-prompt-types", "description": "Enums for prompt types"}
+{"package_name": "bbpr", "description": "Make pull requests through the Bitbucket API 2.0 from your terminal"}
+{"package_name": "appear-js", "description": "A minimal popup"}
+{"package_name": "@nhz.io/vantage", "description": "CLI + SSH + REPL for Node"}
+{"package_name": "cli-styles", "description": "A consistent look for CLI prompts."}
+{"package_name": "@devlop-ab/dialog", "description": "Lightweight and accessible drop-in replacement for the built-in browser dialog methods (alert, confirm and prompt)."}
+{"package_name": "vorpal", "description": "Node's first framework for building immersive CLI apps."}
+{"package_name": "inquirer-autosubmit-prompt", "description": "Auto submit plugin for Inquirer.js"}
+{"package_name": "termly.js", "description": "Simple, Extensible, Hackable and Lightweight Javascript Browser Terminal Simulator!"}
+{"package_name": "merge-cli", "description": "A CLI that allows you to git merge by selecting a branch"}
+{"package_name": "cmdconfig", "description": "Simple configuration CLI generator for nodejs"}
+{"package_name": "notie", "description": "notie - a clean and simple notification, input, and selection suite for javascript, with no dependencies"}
+{"package_name": "@uncinc/react-cookie-compliance", "description": "GDPR friendly cookie compliance popup to prompt the user for consent."}
+{"package_name": "@nathanielks/electron-sudo", "description": "Electron subprocess with administrative privileges, prompting the user with an OS dialog if necessary."}
+{"package_name": "eslint-config-promptworks", "description": "A set of conventions for using ESLint on PromptWorks projects."}
+{"package_name": "umi-plugin-autotips-components", "description": "intelligent prompt components"}
+{"package_name": "@developertheexplorer/core", "description": "Core Inquirer prompt API"}
+{"package_name": "@omiu/dialog-extention", "description": "Pop alert, confirm or prompt in the middle of the page"}
+{"package_name": "advanced-discord.js-prompts", "description": "An advanced list of prompts available to developers to create Discord bots with Discord.js"}
+{"package_name": "mod-info", "description": "Get the latest version update prompt of the node module (npm)."}
+{"package_name": "custom-electron-prompt", "description": "Custom prompt for Electron made easy with various templates"}
+{"package_name": "architected", "description": "A tool for cli utilities."}
+{"package_name": "ng-popups", "description": "Alert, confirm and prompt dialogs for Angular"}
+{"package_name": "promptless", "description": "<a href=\"https://discord.gg/BtnTPFF\"><img src=\"https://img.shields.io/discord/440354555197128704.svg\"></a> <a href=\"https://travis-ci.org/dylanaraps/promptless\"><img src=\"https://travis-ci.org/dylanaraps/promptless.svg?branch=master\"></a> <a href=\"\"><img"}
+{"package_name": "panda-interview", "description": "Convenience wrapper for Prompt module interface"}
+{"package_name": "@j.u.p.iter/react-prompt", "description": "To show modal on history transition"}
+{"package_name": "inquirer-parse-json-file", "description": "A selector for Inquirer.js to pick a JSON file and return the Javascript object"}
+{"package_name": "cli-prompter", "description": "interactive user prompts for the command-line interface"}
+{"package_name": "difference-json", "description": "prompt the diffrence of two json objects"}
+{"package_name": "@paprika/overflow-menu", "description": "OverflowMenu component displays a trigger button, which when clicked displays a list of items in a dropdown menu format. These items can be raw content, Links or actions such as Delete, which will prompt a confirmation panel to be displayed."}
+{"package_name": "inquirer-npm-name", "description": "Helper function using inquirer to validate a value provided in a prompt does not exist as an npm package."}
+{"package_name": "fuzi", "description": "🐻  fuzzy image diff'ing for the terminal"}
+{"package_name": "grunt-idk", "description": "Interactive grunt help and task selection"}
+{"package_name": "react-native-cardstack", "description": "react native component inspired by the iOS passbook app UI"}
+{"package_name": "basic-modals", "description": "A basic and ultra lightweight set of promise based HTML modals (prompt, alert, confirm, veil)."}
+{"package_name": "input-prompt", "description": "Input prompt with auto-completion."}
+{"package_name": "@vscode/sudo-prompt", "description": "Run a command using sudo, prompting the user with an OS dialog if necessary"}
+{"package_name": "fxos-dialog", "description": "Several types of dialogs, including alert, confirm, prompt, action, select, and menu."}
+{"package_name": "password-prompt", "description": "cross-platform masked or hidden prompt"}
+{"package_name": "react-alert-async", "description": "A simple to use Alert/Confirmation/Prompt system for React. On the server or the client."}

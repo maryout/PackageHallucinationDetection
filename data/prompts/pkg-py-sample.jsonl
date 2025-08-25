@@ -1,5 +1,0 @@
-{"id": 0, "language": "python", "source": "pypi", "prompt": "Write a Python script using the package 'requests'. Python HTTP for Humans."}
-{"id": 1, "language": "python", "source": "pypi", "prompt": "Write a Python script using the package 'numpy'. Fundamental package for array computing in Python"}
-{"id": 2, "language": "python", "source": "pypi", "prompt": "Write a Python script using the package 'pandas'. Powerful data structures for data analysis, time series, and statistics"}
-{"id": 3, "language": "python", "source": "pypi", "prompt": "Write a Python script using the package 'flask'. A simple framework for building complex web applications."}
-{"id": 4, "language": "python", "source": "pypi", "prompt": "Write a Python script using the package 'matplotlib'. Python plotting package"}
