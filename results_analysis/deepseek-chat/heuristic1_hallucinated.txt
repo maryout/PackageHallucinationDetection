@@ -1,0 +1,9 @@
+--save-dev
+@ember/object
+@ember/service
+@your-ui-package/dialog
+console-base-library
+fixed-jsdoc-issue
+https:
+list-style-prompt
+navigation-prompt

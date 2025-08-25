@@ -1,0 +1,5 @@
+--save-dev
+-g
+@ember/object
+@ember/service
+@enquirer/prompts

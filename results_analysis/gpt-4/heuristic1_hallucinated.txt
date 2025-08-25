@@ -1,0 +1,8 @@
+--save
+--save-dev
+-g
+@aws-amply/cli
+@ember/component
+@ember/object
+events.
+react-router-dom@6

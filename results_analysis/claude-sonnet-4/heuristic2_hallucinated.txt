@@ -1,0 +1,7 @@
+@angular/material/button
+@angular/material/dialog
+@angular/material/icon
+@angular/platform-browser/animations
+@ember/object
+@ember/service
+@enquirer/prompts

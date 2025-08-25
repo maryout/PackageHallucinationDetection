@@ -1,0 +1,11 @@
+@angular/material/button
+@angular/material/dialog
+@angular/material/icon
+@ember/object
+@ember/service
+@enquirer/prompts
+@your-ui-package/dialog
+console-base-library
+fixed-jsdoc-issue
+list-style-prompt
+navigation-prompt

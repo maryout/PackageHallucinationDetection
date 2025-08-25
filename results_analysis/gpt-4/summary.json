@@ -1,0 +1,17 @@
+{
+    "heuristic1": {
+        "valid_count": 75,
+        "hallucinated_count": 8,
+        "hallucination_rate": 0.0963855421686747
+    },
+    "heuristic2": {
+        "valid_count": 89,
+        "hallucinated_count": 2,
+        "hallucination_rate": 0.02197802197802198
+    },
+    "heuristic3": {
+        "valid_count": 464,
+        "hallucinated_count": 60,
+        "hallucination_rate": 0.11450381679389313
+    }
+}

@@ -1,0 +1,8 @@
+--save-dev
+@ember/component
+@ember/object
+@ember/service
+accessible-dialogs
+consolebase
+fixed-jsdoc-issue
+node:stream
